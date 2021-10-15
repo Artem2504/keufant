@@ -1,0 +1,13 @@
+.red{
+    color: red;
+}
+.text2{
+    border-left: 20px solid red;
+
+}
+.text3{
+    border-left: 20px solid green;
+}
+.text4{
+    border-left: 20px solid grey;
+}
