@@ -1,0 +1,35 @@
+.text {
+    width: 800px;
+    height:  150px;
+    background: brown;
+    transition: 10s;
+ border-radius: 50px;
+}
+.text:hover{
+    width: 1850px;
+    height: 150px;
+
+}
+.text2{
+    width: 500px;
+    height: 450px;
+    background:red;
+    border-radius:50px;
+    display: flex;
+    align-items:center; 
+    justify-content: space-around;
+
+}
+.text1{
+    animation:move 10s infinite;
+    width: 100px;
+    height: 50px;
+    background:seagreen;
+
+}
+
+@keyframes move {
+   50%{
+       transform: skew(85deg);
+   } 
+}

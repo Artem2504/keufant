@@ -1,0 +1,10 @@
+.cell{
+    color: springgreen;
+    font-size: 50px;
+    background-color: red;
+ transition: 0.9s;
+}
+.cell:hover{
+    font-size: 60px;
+    
+}

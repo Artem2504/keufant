@@ -1,0 +1,15 @@
+td{
+    border: 1px solid red; 
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+.hearder_cell{
+    text-align: center;
+
+}
+img{
+    width: 300px;
+}

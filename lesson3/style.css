@@ -1,0 +1,28 @@
+p{
+    border: 1px solid red;
+
+}
+.tekt1{
+    font: size 50px;;
+    color: seagreen;
+}
+.tekt2{
+    font-size: 50;
+    color: rgb(255, 0, 0);
+
+}
+.text3{
+    font-size: 35;
+    color: red;
+}
+th{
+font-size: 60px;
+border: springgreen;
+}
+table{
+    border-collapse: collapse;
+
+}
+.table{
+    background:linear-gradient(red, yellow );
+}

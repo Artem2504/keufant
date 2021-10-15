@@ -1,0 +1,8 @@
+.cell{
+font-size: 50px;
+
+}
+.cell:hover{
+    font-size: 70px;
+}
+
